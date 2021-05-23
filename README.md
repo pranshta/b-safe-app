@@ -1,1 +1,1 @@
-This is a Sample Maven App. 
+B-Safe Simplilearn Maven App. 
