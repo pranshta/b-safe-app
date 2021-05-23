@@ -22,7 +22,7 @@ pipeline{
 
    stage('package'){
      steps{
-       sh 'package -DskipTests'
+       sh 'mvn package -DskipTests'
     }
   }
  }
